@@ -66,14 +66,7 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 - Kết quả cho thấy hệ thống có khả năng hoạt động ổn định trong môi trường công trường thực tế.  
 
 ---
-├── violations/ # Lưu ảnh vi phạm
-├── best.pt # Mô hình YOLO huấn luyện
-├── yolov8n.pt # Mô hình YOLO gốc
-├── ppe.py # Code chính chạy hệ thống
-├── style.css # CSS giao diện
-├── violations_log.csv # Log chi tiết vi phạm
-├── congtuong.mp4 # Video kiểm thử
-├── thicong.jpg # Ảnh minh họa
+
 ---
 
 ##  Cách chạy  
