@@ -2,7 +2,7 @@
 
 # 🦺 NHẬN DIỆN THIẾT BỊ BẢO HỘ LAO ĐỘNG (PPE) TẠI CÔNG TRƯỜNG  
 
-<img src="thicong.jpg" alt="Logo" width="1000"/>
+<img src="logo aiot.jpg" alt="Logo" width="1000"/>
 
 ---
 
@@ -59,7 +59,7 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 
 ## 📊 Kết quả thử nghiệm  
 
-<img src="violations/22.jpg" alt="Kết quả vi phạm" width="800"/>  
+<img src="ketqua.jpg" alt="Kết quả vi phạm" width="800"/>  
 
 - Hệ thống đã phát hiện công nhân **thiếu PPE bắt buộc** (ví dụ: không đội mũ, không đeo găng tay).  
 - Mỗi trường hợp vi phạm được **lưu kèm ảnh minh họa và thời gian phát hiện** trong thư mục `violations/`.  
@@ -68,5 +68,4 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 
 ---
 
-## 📂 Cấu trúc thư mục  
 
