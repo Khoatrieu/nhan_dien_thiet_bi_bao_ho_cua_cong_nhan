@@ -42,7 +42,6 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 - 🎥 **Nhận diện vi phạm PPE thời gian thực** trên video hoặc camera.  
 - 🧑‍🤝‍🧑 **Theo dõi công nhân** và phát hiện thiếu PPE (mũ, áo, găng tay, kính, giày).  
 - 🖼️ **Lưu bằng chứng vi phạm** (ảnh + thời gian).  
-- 📊 **Dashboard thống kê** số lượng vi phạm theo thời gian và theo loại PPE.  
 - 🌐 **Giao diện web trực quan** được xây dựng bằng Streamlit.  
 
 ---
