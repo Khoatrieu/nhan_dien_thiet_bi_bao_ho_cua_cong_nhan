@@ -64,23 +64,7 @@ For more information check out this notebook: [**Check yo'self before you wreck 
 └───source_files
 ```
 
-## Results
 
-The training of YoloV8n model was done for 100 epochs and was completed in 2.719 hours. After training, we get the following results:
-
-![Alt text](results/confusion_matrix.png)
-
-![Alt text](results/train_batch14672.jpg)
-
-![Alt text](results/val_batch2_pred.jpg)
-
-![Alt text](results/results.png)
-
-## Outputs
-
-![Alt text](output/output_yolov8n_100e/construction-safety.jpg)
-![Alt text](output/output_yolov8n_100e/portrait-of-woman-with-mask-and-man-with-safety-glasses-on-a-construction-HX01FH.jpg)
-![Alt text](output/output_yolov8n_100e/two-young-construction-workers-wearing-555864.jpg)
 ## Future Work
 
 1. Train the model for more epochs.
