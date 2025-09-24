@@ -14,7 +14,7 @@
 
 ---
 
-## 🔎 Giới thiệu  
+##  Giới thiệu  
 
 Trong các công trường xây dựng, việc tuân thủ **quy định về sử dụng thiết bị bảo hộ cá nhân (PPE)** là bắt buộc nhằm đảm bảo an toàn cho người lao động. Tuy nhiên, trên thực tế vẫn còn tình trạng công nhân **không mang hoặc mang thiếu PPE**, gây nguy cơ tai nạn.  
 
@@ -22,7 +22,7 @@ Hệ thống **PPE Detection System** được xây dựng nhằm **tự động
 
 ---
 
-## 🏗️ Kiến trúc hệ thống  
+##  Kiến trúc hệ thống  
 
 Quy trình hoạt động của hệ thống được triển khai qua các bước:  
 
@@ -37,16 +37,16 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 
 ---
 
-## ✨ Tính năng chính  
+##  Tính năng chính  
 
-- 🎥 **Nhận diện vi phạm PPE thời gian thực** trên video hoặc camera.  
-- 🧑‍🤝‍🧑 **Theo dõi công nhân** và phát hiện thiếu PPE (mũ, áo, găng tay, kính, giày).  
-- 🖼️ **Lưu bằng chứng vi phạm** (ảnh + thời gian).  
-- 🌐 **Giao diện web trực quan** được xây dựng bằng Streamlit.  
+-  **Nhận diện vi phạm PPE thời gian thực** trên video hoặc camera.  
+-  **Theo dõi công nhân** và phát hiện thiếu PPE (mũ, áo, găng tay, kính, giày).  
+-  **Lưu bằng chứng vi phạm** (ảnh + thời gian).  
+-  **Giao diện web trực quan** được xây dựng bằng Streamlit.  
 
 ---
 
-## 🔧 Công nghệ sử dụng  
+##  Công nghệ sử dụng  
 
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)  
 - [![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ai&logoColor=black)](https://github.com/ultralytics/ultralytics)  
@@ -56,7 +56,7 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 
 ---
 
-## 📊 Kết quả thử nghiệm  
+##  Kết quả thử nghiệm  
 
 <img src="ketqua.jpg" alt="Kết quả vi phạm" width="800"/>  
 
@@ -76,7 +76,7 @@ Quy trình hoạt động của hệ thống được triển khai qua các bư�
 ├── thicong.jpg # Ảnh minh họa
 ---
 
-## 🚀 Cách chạy  
+##  Cách chạy  
 
 ```bash
 # B1: Cài đặt môi trường
