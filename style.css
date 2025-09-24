@@ -1,0 +1,20 @@
+.big-title {
+    text-align: center;
+    font-size: 50px !important;
+    font-weight: bold;
+    color: #FF4B4B;
+}
+
+.big-subtitle {
+    text-align: center;
+    font-size: 25px !important;
+    color: #555;
+    margin-top: -15px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 16px;
+    color: #888;
+    margin-top: 40px;
+}
